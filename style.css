@@ -1,0 +1,22 @@
+body{
+	font-family: 'Modern Antiqua', cursive;
+	text-align: center;
+	font-size: 30px;
+
+	background-image:url("images/background.jpg");
+	color:black; 
+}
+.container {
+	width: 1000px;
+	display: block;
+	margin: auto;
+}
+.scene {
+	width: 800px;
+	display: block;
+	margin: auto;
+}
+
+p {
+	color: MidnightBlue;
+}
